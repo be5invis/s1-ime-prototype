@@ -1,0 +1,8 @@
+{
+	"dependencies" : {
+		"carrier" : "*",
+		"glob" : "*",
+		"lazy" : "*"
+	},
+	"main" : "./sy.js"
+}
